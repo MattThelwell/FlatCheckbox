@@ -23,10 +23,6 @@ body {
   transition: .15s ease;
 }
 
-.pull-right{
-  text-align:right;
-}
-
 input[type="checkbox"]:checked ~ .chexbox-on {
   background-color: #7eab55;
   color:white;
