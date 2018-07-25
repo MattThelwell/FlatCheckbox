@@ -1,3 +1,3 @@
-# FlatCheckbox
+# FlatCheckbox - Chexbox
 
-HTML5 Flat Checkbox's
+A HTML5 Flat Checkbox design.
